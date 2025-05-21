@@ -1,0 +1,23 @@
+{
+  "name": "aqa-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neliapravdenko/aqa-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neliapravdenko/aqa-cypress/issues"
+  },
+  "homepage": "https://github.com/neliapravdenko/aqa-cypress#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.4.0"
+  }
+}
