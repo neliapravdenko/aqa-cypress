@@ -21,5 +21,8 @@
   "description": "",
   "devDependencies": {
     "cypress": "^14.4.0"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.2"
   }
 }
